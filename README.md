@@ -1,2 +1,3 @@
 # Da-Blogs
-run npm install next to activate localhost.
+To activate localhost:-
+run npm install next
